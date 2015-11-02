@@ -1,2 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
-
+When aworking on a fork from an existing repository, any changes can be linked back to the original repository via an 'upstream remote'. The upstream remote is used to create a 'pull request' for the owner of the original repository who can then choose whether to accept the edits made on your fork.
