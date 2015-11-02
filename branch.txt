@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches allow you to work in parallel on the same files. This can be used to experiment with different realities, or for different team members to work on the project at the same time.
