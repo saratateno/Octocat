@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+'Clone' allows you to create a local version of a repository stored elsewhere., copying the existing files and directory structures exactly.
